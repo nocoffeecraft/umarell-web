@@ -41,7 +41,7 @@
 		</div>
 		<div class="relative flex h-[500px] items-start justify-center overflow-hidden">
 			<img
-				src="src/lib/assets/dashboard.jpg"
+				src="https://github.com/nocoffeecraft/umarell-web/blob/main/src/lib/assets/dashboard.jpg?raw=true"
 				alt="dashboard"
 				class="w-5/6 rounded-2xl border-8 border-blue-200 object-cover shadow-2xl"
 			/>
